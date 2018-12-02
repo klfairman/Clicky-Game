@@ -1,10 +1,8 @@
 {
-    "name": "click-game",
+    "name": "clicky-game",
     "version": "0.1.0",
     "private": true,
-    "engines": {
-      "node": "6.11.0"
-    },
+    "homepage": "https://klfairman.github.io/clicky-game",
     "dependencies": {
       "gh-pages": "^1.1.0",
       "react": "^16.2.0",
@@ -18,6 +16,5 @@
       "build": "react-scripts build",
       "test": "react-scripts test --env=jsdom",
       "eject": "react-scripts eject"
-    },
-    "homepage": "https://klfairman.github.io/clicky-game"
+    }
   }
