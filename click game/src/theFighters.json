@@ -1,0 +1,65 @@
+[
+    {
+      key: 1,
+      name: "AtAt",
+      selected: false
+    },
+    {
+      key: 2,
+      name: "BB8",
+      selected: false
+    },
+    {
+      key: 3,
+      name: "C3P0",
+      selected: false
+    },
+    {
+      key: 4,
+      name: "Chewy",
+      selected: false
+    },
+    {
+      key: 5,
+      name: "Darthmaul",
+      selected: false
+    },
+    {
+      key: 6,
+      name: "DeathStar",
+      selected: false
+    },
+    {
+      key: 7,
+      name:"Ewok",
+      selected: false
+    },
+    {
+      key: 8,
+      name: "Luke",
+      selected: false
+    },
+    {
+  
+      key: 9,
+      name: "MilleniumFalcon",
+      selected: false
+    },
+    {
+      key: 10,
+      name: "R2D2",
+      selected: false
+    },
+    {
+      key: 11,
+      name: "StormTrooper",
+      selected: false
+    },
+    {
+      key: 12,
+      name: "Yoda",
+      selected: false
+    }
+  
+  ]
+  
